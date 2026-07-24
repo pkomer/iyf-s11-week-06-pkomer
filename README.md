@@ -27,12 +27,10 @@ This assignment focuses on asynchronous JavaScript and working with APIs. The pu
 
 ## Live Demo 
 
-[View Live Demo](https://your-deployed-url.com)
+["Weather App"](https://github.com/pkomer/iyf-s11-week-06-pkomer/tree/main/Weather-Dashboard)
 
 
-Live Demo (if deployed)
+["Asynchronous JavaScript Practice"](https://github.com/pkomer/iyf-s11-week-06-pkomer/blob/main/index.html)
 
-View Live Demo
-=======
-# iyf-s11-week-06-pkomer
->>>>>>> ea479c968544b0fe62c10e5ba72c52c76da86043
+["User Directory"](https://github.com/pkomer/iyf-s11-week-06-pkomer/tree/main/User-Director)
+
