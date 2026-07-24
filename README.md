@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Week 6: Asynchronous JavaScript
 
 ## Author
@@ -32,3 +33,6 @@ This assignment focuses on asynchronous JavaScript and working with APIs. The pu
 Live Demo (if deployed)
 
 View Live Demo
+=======
+# iyf-s11-week-06-pkomer
+>>>>>>> ea479c968544b0fe62c10e5ba72c52c76da86043
