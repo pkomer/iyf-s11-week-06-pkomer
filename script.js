@@ -1,34 +1,6 @@
-// Asynchronous - doesn't block
-
-console.log("1 - Start");
-
-setTimeout(() => {
-    console.log("2 - This is delayed");
-}, 2000);
-
-console.log("3 - End");
-
+// Asynchronous 
 
 // Exercise 2: Callback Pattern
-
-// Old-style callbacks
-
-function fetchData(callback) {
-
-    setTimeout(() => {
-
-        const data = { name: "John", age: 30 };
-
-        callback(data);
-
-    }, 1000);
-}
-
-fetchData(function(data) {
-
-    console.log("Data received:", data);
-
-});
 
 // Create a function that simulates loading user data
 
