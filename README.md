@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Week 6: Asynchronous JavaScript
 
 ## Author
@@ -8,7 +7,7 @@
 
 ## Project Description
 
-This assignment focuses on asynchronous JavaScript and working with APIs. The purpose of the assignment was also to teach and shows students how JavaScript communicates with external servers using the Fetch API, processes JSON data, and updates the DOM. The assignment also explores asynchronous programming concepts including Promises, Async/Await, error handling, loading states, and handling API responses. 
+This assignment focuses on asynchronous JavaScript and working with APIs. The purpose of the assignment was to teach and show students how JavaScript communicates with external servers using the Fetch API, processes JSON data, and updates the DOM. The assignment also explores asynchronous programming concepts including Promises, Async/Await, error handling, loading states, and handling API responses. 
 
 ## Technologies Used
 
